@@ -1,0 +1,10 @@
+tg\ip\net\itchallengers\entities\Droit.class
+tg\ip\net\itchallengers\entities\Privilege.class
+tg\ip\net\itchallengers\dao\PrivilegeDAO.class
+tg\ip\net\itchallengers\entities\Utilisateur_.class
+tg\ip\net\itchallengers\controllers\UtilisateurController.class
+tg\ip\net\itchallengers\dao\DroitDAO.class
+tg\ip\net\itchallengers\dao\UtilisateurDAO.class
+tg\ip\net\itchallengers\entities\Privilege_.class
+tg\ip\net\itchallengers\entities\Droit_.class
+tg\ip\net\itchallengers\entities\Utilisateur.class
